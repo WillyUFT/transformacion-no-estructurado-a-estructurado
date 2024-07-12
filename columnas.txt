@@ -1,0 +1,8 @@
+id numeric
+edad numeric
+anoscarrera numeric
+practicas numeric
+numfamilia numeric
+genero string Femenino Masculino Otro
+carrera string Lenguaje Matemática Historia,_Geográfia_y_Ciencias_Sociales Ciencias_Naturales_y_Biología Ciencias_Naturales_y_Química Ciencias_Naturales_y_Física Artes_Visuales Artes_Musicales Educación_Física_y_Salud Inglés Filosofía Educación_General_Básica Educación_Parvularia Educación_Diferencial
+region string arica tarapaca antofa atacama coquimbo valparaiso ohiggins maule nuble biobio araucania losrios loslagos aysen magallanes metropolitana

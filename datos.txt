@@ -1,0 +1,82 @@
+186 21 4 4 8 2 12 9 dificultades opinion desmotivacion parte profesor conflictividad grupos directivos
+190 21 3 2 5 1 13 9 conocimiento tema fid
+198 30 4 4 2 1 12 9 noresponde
+203 25 4 4 4 1 12 9 tiempo solucionar problemas convivencia algo noche manana forma organizado curriculum clases ver relacion tiempo escuela deja tiempo gestionar convivencia quitar tiempo actividades escolares tratar cosas tiempo
+208 23 3 3 2 1 13 9 rechazo desinteres parte estudiantes
+216 20 3 4 6 1 13 9 cantidad ninos ninas agrada escuela ninos dificultad atencion terminan pronto distraen resto solucion general especifica comportamiento nino nina
+226 21 4 3 4 1 12 9 falta comunicacion familias apoderados falta equipo gestione especificamente temas convivencia escolar respeto alumnos crianzas casa
+234 22 4 2 5 1 14 9 mayor dificultad presente docente convivencia pares negativa permitiria optima realizacion planificacion gestion convivencia escolar
+237 21 4 2 4 1 14 7 principal dificultad creo conocen estudiantes ya generamos cercania dificilmente podriamos crear normas ajusten caracteristicas personales
+239 23 4 2 2 1 14 9 manejo herramientas dadas proceso academico manejar convivencia salas clases
+246 25 7 3 2 1 14 9 falta comunicacion
+248 22 4 2 5 1 14 9 parecer mayor dificultad profesor gestionar convivencia escolar contar herramientas conocimientos hacerlo importante formacion profesional otorgado distintas estrategias necesita apoyo comunidad educativa ya velar convivencia escolar tarea conjunto
+253 21 4 1 3 1 14 10 enfrentar rechazo estudiantes
+310 21 4 2 2 1 14 9 conocimiento tema pocas estrategias conseguirla poca colaboracion quienes conforman institucion educativa falta politicas publicas
+314 22 4 2 5 1 14 9 ideales clima aula
+322 26 4 4 5 1 12 9 loslas estudiantes confundan confianza profesor falta respeto
+326 21 4 1 3 2 3 9 creo principales problemas enfrentar docente estudiante actitudes disruptivas familia comprometida pupilo ya temas delicados veces escapar manos docente afectan convivencia comunidad educativa
+330 24 5 3 2 2 3 9 diversidad culturas patrones conducta estudiante estrategias gestionar convivencia escolar funcionar
+334 21 4 2 5 1 3 9 principal dificultad prejuicios tengan alumnosdocentes companerosalumnos suelen captados interacciones sociales profundizados constantemente validados grupos sociales entorpece convivencia escolar validadas legitiman trabajo convivencia escolar practica continua significativa
+349 24 5 2 3 2 3 9 pais ensena ensenar suele parecer aula universitaria ambiente escolar heterogeneo carecer dudas manejar conceptos concepto deberia mayormente considerados traves anos estudio
+352 21 4 3 4 2 3 9 principal dificultad profesor gestionar convivencia escolar enfasis otorga ensenanza practica habilidades blandas salas clase mejorar
+360 21 4 1 4 2 3 12 posiblemente dificultad fundamental conductas disruptivas aula clases puesto mayoria provocadas situaciones externas estudiantes respuesta alumnos disruptivos suelen centrarse clase desorientar ayuda mejorar conducta inmediata
+361 21 5 3 4 2 3 9 principal dificultad trabajar experiencias disimiles estudiantes cargan experiencias ocasiones coinciden convivencia ocasiones conductas disruptivas agresivas dificiles manejar docentes somos psicologos expertos area emocional
+363 28 4 2 4 2 3 9 principal dificultad tensiones existir comunidad educativa apoderados padres docentes estudiantes directivos funcionarios prestan servicios contextos educacionales principalmente interaccion profesores apoderadospadres encuentro mayor dificultad docentes equipo directivo entendiendo familia posee capital ya desarrollado formas modos llevar vida ninez adultez transmitidas abuelos padres padres hijos conductas encuentran normalizadas arraigadas mentalidades familiares forma mayor tension momento padresapoderados docentes reman lado comunidad educativa involucre padres apoderados procesos educativos hijos
+368 21 4 1 2 2 3 9 amplia diversidad interior aula genera procesos latencia
+376 21 4 3 5 2 3 9 principal dificultad relacion irrespetuosidad docente alumnos escuchan respetan generar ambiente efimero confianza propicio llevar cabo aprendizaje respeto padre convivencia escolar
+380 22 4 1 6 2 3 15 poca participacion injerencia padres comportamiento pupilos importante establecer normas convivencia ojala consensuadas espacios educativos conjunto estudiantes permitan desarrollo clase problemas papel docente limitado punto estudiantes vuelven hogares puesto ahi intervenir apoderados importante participacion generar clima convivencia escolar
+388 21 4 1 6 1 3 9 principal dificultad veces excesivo numeros alumnos alumnas aulas generar control convivencia
+390 28 4 3 5 2 3 5 caracter abierto escuchar estudiantado
+394 22 4 1 6 1 3 9 principal dificultad detecto contar ayuda familiares establecimiento escolar medidas estime convenientes generar ambiente ayuda alumnos conviviencia colegio practicas reflejen establecimiento aprendidas hogar ya postivas negativas
+400 21 4 1 2 1 4 9 apoderados
+404 22 4 1 2 1 3 9 estudiantes conflictivos culparlos mayoria veces comportamientos origen psicologia estudiante bullying violencia relaciones abuso acoso violencia sexual abuso drogas violencia general
+408 24 4 1 4 2 3 9 principal dificultad establecer clima respeto mutuo sala clases vale contexto socioeconomico establecimiento influye relaciones estudiante estudiante estudiante docente
+412 22 4 3 6 1 3 9 opinion principal dificultad hogar estudiantes inculquen valores sana convivencia
+426 22 4 1 2 1 3 9 mayor dificultad parecer lograr llegar estudiantes sientan comodos confianza escucharte forma ayudarlos resolver conflictos manera sana posible ya escuchan interesa nada diciendo gestionar convivencia escolar
+455 18 5 0 3 2 2 9 principal dificultad recae profesor finalmente mediar circunstancias sociabilizacion ciertos momentos porque quiera mo presente genere situacion
+456 20 3 0 4 1 3 9 apoyo entregue establecimiento educacional realizar actividades estimulen sana convivencia aula diversidad sala clase
+458 24 1 0 5 1 3 8 principal problema diversidad personalidades alumnos haria manejar situacion eso manejar herramientas desarrollar habilidades gestionar convivencia escolar
+463 22 2 1 5 1 12 9 principal dificultad incluir comunidad proceso veces situaciones ocurren aula patrones estudiantes ven hogares hablar incluir familia importante trabajo colaborativo
+469 19 4 0 2 1 4 8 noresponde
+471 21 3 0 5 1 2 9 exista respeto mutuo tolerancia aula escolar
+477 20 3 1 6 3 2 8 inexperiencia ocurre pensar cursos alumnxs motivos resistan acatar normas basicas convivencia imagino principal dificultad ver manejar situacion considero conversar privado dichxs alumnxs manera sabiendo razones comportamiento puedes intentar algo generalizar situacion porque creo ocurra alumnx tendra caso motivaciones particulares considero mayores complicaciones presentar tendras ganarte alumnx
+483 20 3 3 3 1 12 9 control acciones participaciones alumnos alumnas ejemplo interrumpir clase momento presenten problemas internos estudiantes docente manejar situacion controlarla
+485 18 1 0 4 1 4 12 diversidad personalidades alumnos habra grupos distinguidos alumnos queden solos veces darse cuenta atender situaciones darse aula
+489 18 1 0 7 1 10 9 parecer mayor dificultad profesor estudiantado realidades personales estudiantes esforcemos llegaremos conocer comprender dificultaria entender porque alguien actua forma historia detras comportamiento veces dificiles apoyar veces quiera quieren apoyados llevaria varios casos reflejaran sentimientos alterando convivencia escolar
+493 24 7 7 3 1 3 9 contar apoyo totalidad comunidad educativa
+497 18 1 0 4 2 3 9 respetado tomado atencion
+503 24 5 5 4 1 10 9 herramientas afrontar distintas situaciones
+507 22 5 5 4 1 14 8 apoyo recibir pares convivencia darse aula asignatura determinada ya transversal docentes colaboran dificilmente podremos gestionar convivencia
+511 19 1 0 3 2 12 9 controlar estudiantes forma incapaz lograr sana convivencia aula
+515 18 1 0 4 1 1 9 lograr manejar diversidad estudiantes aula
+521 33 6 4 3 1 3 9 parecer escolar ajena realidad estudiantes acomodan rebelan frente sentido profesor vuelve parte ajeno impuesto actitud rechazo dispocision profesor pares ya problemas manifiestan companeros
+527 26 3 1 3 1 8 9 salud mental medita comportamiento capaz mantener calma frente inconveniente problema salon clases
+533 19 1 0 3 2 1 12 localizado normativas
+537 22 3 1 2 1 9 9 hecho somos funcionar perfeccion curos ejemplo solucionar problema grupo entender quienes estamos tratando flexibles cuanto
+541 18 1 0 4 1 2 9 ponerse lugar alumno conocer situacion ya economica
+547 25 5 5 5 1 12 12 normas parecen absurdas complejo estudiantes consideren importantes
+577 24 6 7 5 1 10 9 contexto viven estudiantes inserto colegio
+653 20 3 1 3 1 10 9 heterogeneidad comunidad educativa contexto sociocultural pais residencia interacciones escuela
+665 24 6 2 3 2 10 9 noresponde
+666 32 3 3 5 1 12 9 factores externos terrenos influenciar permitido familia entorno proximo
+675 22 5 4 4 1 5 9 creo presencia estudiantes disruptivos
+676 23 3 2 5 1 14 9 contar herramientas estrategias eficientes gestionar factores involucrados convivencia escolar contar creencias percepciones prejuicios erroneos estudiantes tendencia presentar conductas disruptivas llegando punto considerar posible trabajar mejora comportamiento convivencia escolar
+680 24 5 9 9 1 13 9 considero mayor dificultad lograr agentes involucren participen autocriticos acciones cambios realizar lograr convivencia escolar
+685 28 5 3 4 1 8 9 noresponde
+688 21 3 3 3 1 14 10 individuos profesor motivacion promover clima comunidad escolar quieran aportar generar ambiente eso teavez escucha activa tratar problemas generar
+690 53 4 4 3 1 12 9 noresponde
+696 20 3 1 3 1 14 9 pocas habilidades manejo grupo conocimiento limitado respeto convivencia escolar diversidad presente aula saber atender necesidades estudiantes enfrentar sucesos disruptividad enfrentamientos pares
+700 21 3 2 4 1 12 9 comunicar claramente miembros comunidad educativa problema particulas villanizar estudiantes victimizar
+709 19 2 0 3 1 2 9 creo tiempo veces dificulta profesor ponerse lugar estudiantes comprender situaciones falta comunicacion respeto
+712 21 4 3 5 1 12 9 poseer conocimiento distintas estrategias lograr convivencia
+715 24 5 4 3 1 4 9 demasiados estudiantes sala profesor aula
+719 21 1 0 4 1 4 9 seguro ya gestionar algo importante convivencia escolar necesita seguridad herramientas lograr objetivo
+733 19 2 0 5 2 9 13 gestion escolar apoyo
+734 20 5 0 4 1 12 9 porque casa papas respeto hijos conlleva traten malas palabras malos actos provocando alumnod vea normal comportamiento
+735 23 5 6 5 1 14 8 noresponde
+742 18 5 0 5 2 8 9 ambiente escolar ya
+750 23 6 5 5 1 13 8 principal dificultad lidiar contexto estudiante
+754 23 3 0 5 2 2 9 poca preparacion entrega formacion inicial docente convivencia escolar manejo provoca futuro losas docentes sepan gestionar situaciones criticas convivencia escolar generandose tendencia derivacion estudiantes departamentos luego abandonadosas sistema
+758 21 3 0 6 1 3 9 noresponde
+764 19 2 0 4 1 10 7 falta comunicacion contacto alumnos
+768 24 5 0 4 1 13 9 noresponde
